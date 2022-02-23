@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.sebas.lifecycle.beans.myBeanY.stringProperty&apos; in &apos;com.sebas.lifecycle.beans.myBeanY&apos;&#x0A;- Original project: &apos;lifeCycle&apos;&#x0A;- Original element: &apos;com.sebas.lifecycle.beans.myBeanY.stringProperty&apos;&#x0A;- Getter method name: &apos;getStringProperty&apos;&#x0A;- Setter method name: &apos;setStringProperty&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;stringProperty&apos;" flags="589830" getter="getStringProperty" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sebas.lifecycle.beans{myBeanY.java[myBeanY^stringProperty" insertion="0" setter="setStringProperty" stamp="1644541000765" version="1.0" visibility="1"/>
+</session>
