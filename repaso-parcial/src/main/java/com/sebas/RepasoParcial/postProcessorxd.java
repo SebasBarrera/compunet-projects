@@ -17,7 +17,8 @@ public class postProcessorxd implements BeanPostProcessor {
 	}
 	@Override
 	public Object postProcessBeforeInitialization(Object bean, String beanName) throws BeansException {
-		if (bean.getClass().toString().contains("PersonServiceImp")) log.info("HOLAAA, soy un bean de PersonSearvice"); 
+		if (bean.getClass().toString().contains("PersonServiceImp")) log.info("HOLAAA, soy un bean de PersonSearvice"
+				+ "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"); 
 		return bean;
 	}
 }

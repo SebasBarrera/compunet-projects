@@ -20,6 +20,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/computacion19/Descargas/CI-und4-tutorialmvcini"/>
+			<item value="/home/computacion19/Descargas/ci-und3-sb-mocks-init"/>
 			<item value="/home/computacion19/Descargas/ci-und3-junit5-advanced-initcode"/>
 			<item value="/home/computacion19/Descargas/CI-Und3-junit5-spring-initcode"/>
 			<item value="/home/computacion19/Descargas/inyeccionDep-inicial/no-injection"/>
